@@ -1,1 +1,1 @@
-print("This file was created within RStudio")
+print("To install R-markdown use install.packages('rmarkdown')")
